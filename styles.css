@@ -38,6 +38,10 @@ a{
     display: inline-block;
 }
 
+.navbar a:hover {
+    text-decoration: underline;
+}
+
 .searchLab{
     cursor: pointer;
     padding: 8px;
